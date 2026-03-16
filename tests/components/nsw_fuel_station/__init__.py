@@ -1,1 +1,1 @@
-"""Tests for the nsw_fuel_station component."""
+"""This package contains pytest test modules for NSW Fuel Check integration."""

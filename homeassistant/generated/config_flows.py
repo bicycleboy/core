@@ -484,6 +484,7 @@ FLOWS = {
         "nordpool",
         "notion",
         "nrgkick",
+        "nsw_fuel_station",
         "ntfy",
         "nuheat",
         "nuki",
